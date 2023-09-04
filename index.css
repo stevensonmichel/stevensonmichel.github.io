@@ -1,0 +1,24 @@
+#navigationBar {
+    background-color: #333; /* Background color for the navigation bar */
+    padding: 10px 0; /* Add some padding to the top and bottom */
+    text-align: center; /* Center-align the navigation links */
+  }
+  #navigationBar a {
+    color: #fff; /* Text color for the links */
+    text-decoration: none; /* Remove underlines from links */
+    margin: 0 20px; /* Add some space between the links */
+    font-size: 18px; /* Set the font size for the links */
+    font-weight: bold; /* Make the text bold */
+  }
+
+  #navigationBar a:hover {
+    color: #ff9901; /* Change text color on hover */
+  }
+
+  .image-container {
+    max-width: 500px;
+}
+
+.image-container img {
+    width: 100%;
+}
